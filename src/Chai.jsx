@@ -1,5 +1,5 @@
 function Chai() {
-  return <h2>Chai In React</h2>;
+  return <h3>Chai In Beast</h3>;
 }
 
 export default Chai;
